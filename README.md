@@ -27,5 +27,6 @@ Urban cities still dominate Pyber's revenues at 62.7% even with the lowest fair 
 <p align="center">
   <img src="analysis/Fig6.png">
 </p>
+Here our pie chart shows that 68.4% of all rides come from Urban cities. One cavet to mention is that Suburban cities account for 26.3% of the total rides while bringing in 30.5% of the total revenue. 
 
 
