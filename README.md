@@ -11,3 +11,4 @@ First using Python and Pandas, we will create a summary Dataframe of the ride-sh
 <p align="center">
   <img src="analysis/Fig1.png">
 </p>
+The scatter chart shows that the total number of rides per city in order are Urban, Suburban, and Rural. Although Urban cities have the highest frequency of rides, the data shows that the highest fares belong to the Rural cities. This would suggest more people take shorter rides in Urban cities, while Rural trips are longer.
