@@ -48,6 +48,7 @@ Lastly, the total fares are shown for the months of January through April 2019. 
 -We recommend the following to you CEO based on the data:
 
   1.Higher more drivers in Suburban cities. Suburban drivers account for only 16.5% of the total drivers while accounting for 30.5% of the total revenue. This 14% difference        suggest Suburban drivers are working hard and could use some help! 
+  
   2.Explore further into the Rural cities marketplace. Specifically discovering if having so few drivers in these areas is costing you rides. Look into total ride requests         compared to rides given. 
-3.
+
 
