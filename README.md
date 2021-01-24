@@ -21,7 +21,11 @@ The boxplot above show the mean numbers for each city type as follows: Urban-24.
 </p>
 This boxplot suggests a different story when it comes to the mean fares of city type: Urban-24.52, Suburban-30.97, and Rural-34.62. There are no outliers found in this data. This aligns with our above theory. 
 <p align="center">
-  <img src="analysis/Fig4.png">
+  <img src="analysis/Fig5.png">
 </p>
-Above all of the driver count data is given for the different types of citys. The mean driver counts: Urban-36.68 drivers, Suburban-13.71 drivers, and Rural-4.29. A worthy investigation for the CEO would be to look into how many people go without rides in rural cities with such low driver count numbers. 
+Urban cities still dominate Pyber's revenues at 62.7% even with the lowest fair mean. 
+<p align="center">
+  <img src="analysis/Fig6.png">
+</p>
+
 
