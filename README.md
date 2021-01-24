@@ -15,3 +15,8 @@ The scatter chart shows that the total number of rides per city in order are Urb
 <p align="center">
   <img src="analysis/Fig2.png">
 </p>
+The boxplot above show the mean numbers for each city type as follows: Urban-24.62 rides, Suburban-17.36 rides, and Rural-6.94 rides. There is also one outlier in Urban rides shown above.
+<p align="center">
+  <img src="analysis/Fig3.png">
+</p>
+
