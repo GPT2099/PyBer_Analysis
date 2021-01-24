@@ -31,5 +31,10 @@ Here our pie chart shows that 68.4% of all rides come from Urban cities. One cav
 <p align="center">
   <img src="analysis/Fig7.png">
 </p>
-Shown above, we have a very telling piece of pie. Rural cities account for 2.6% of total drivers by city type and are responsible for 6.8% of the revenue. likewise Suburban cities only represent 16.5% of the total drivers while accounting for 30.5% of the total revenue. Only the Urban cities have a higher percentage of the drivers at 80.9% but only bring in 62.7% of the fares. 
+Shown above, we have a very telling piece of pie. Rural cities account for 2.6% of total drivers by city type and are responsible for 6.8% of the revenue. likewise Suburban cities only represent 16.5% of the total drivers while accounting for 30.5% of the total revenue. Only the Urban cities have a higher percentage of the drivers at 80.9% but only bring in 62.7% of the fares. This could suggest that fewer drivers are needed in urban areas, and more are needed in rural and suburban areas.
+<p align="center">
+  <img src="analysis/fig8.png">
+</p>
+
+
 
