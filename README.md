@@ -8,4 +8,6 @@ First using Python and Pandas, we will create a summary Dataframe of the ride-sh
 - **Data Sources:** [PyBer_ride_data.csv](https://github.com/r3ginam/PyBer_Analysis/blob/main/Resources/PyBer_ride_data.csv), [city_data.csv](https://github.com/r3ginam/PyBer_Analysis/blob/main/Resources/city_data.csv)
 
 ## Results
-![](./analysis/Fig1.PNG)
+<p align="center">
+  <img src="analysis/Fig1.png">
+</p>
